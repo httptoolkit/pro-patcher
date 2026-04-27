@@ -8,7 +8,7 @@ I'm the developer behind HTTP Toolkit, and I've done my best to make HTTP Toolki
 
 If you need free access to HTTP Toolkit, let me know. I'm happy to set up free Pro accounts for:
 
-* Students - send an email from your university/school/etc email address to confirm this, ask a professor to do so for you, or share your student id or similar.
+* Students - you can sign up and verify your student status through the [HTTP Toolkit student account page](https://httptoolkit.com/request-student-account).
 * Non-profits & charities - send an email from your organization email address, and share some details to confirm the non-profit status.
 * Full-time open-source devs - send a message from an email with some kind of link to your GitHub profile or equivalent (e.g. from email address shown there, or your git commit email) and explain what you're working on and how HTTP Toolkit helps.
 * Anybody who really needs it but just cannot afford it right now - get in touch, let me know what's up, and I can help.
